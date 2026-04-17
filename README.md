@@ -12,19 +12,7 @@ If you’ve ever written code and trusted the compiler like it’s some divine e
 
 ## What it does
 
-```
-Source Code
-   ↓
-Lexer
-   ↓
-Parser
-   ↓
-AST
-   ↓
-IR
-   ↓
-Binary
-```
+Source Code → Lexer → Parser → AST → IR → Binary
 
 ---
 
