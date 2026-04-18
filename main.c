@@ -397,7 +397,6 @@ static ASTNode *parse_func(void){
     add_child(n, parse_block(SCOPE_LOCAL));
     return n;
 }
-
 /*
 program  :=  func_def*
 */
